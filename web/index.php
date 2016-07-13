@@ -20,7 +20,7 @@
 	}  
 	 
 
-	if($pass&&$user&&strtoLower($userval) == "admin" && strtoLower($passval) == "password"){
+	if($pass && $user && strtoLower($userval) == "admin" && strtoLower($passval) == "password"){
 	    echo("<h4> Welcome Admin</h4>");
 	    echo("<p>KEY: Headers_galor</p>");
 	}else{
