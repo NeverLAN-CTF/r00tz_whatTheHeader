@@ -40,7 +40,7 @@
     if($pass && $user && strtoLower($userval) == "admin" && strtoLower($passval) == "password"){
         echo("<h4> Welcome Admin</h4>");
         echo("<p>KEY: Headers_galor</p>");
-        echo("<p>WORD: Village</p>");
+        echo("<p>WORD: Private CLASS C address</p>");
     }else{
         echo("<h4>Sorry, only Admins can see the key</h4>");
         echo("<p>KEY: *************</p>");
